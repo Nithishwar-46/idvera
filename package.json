@@ -1,0 +1,9 @@
+{
+  "name": "idvera",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IDVERA - Smart India Hackathon 2026 Project Showcase",
+  "scripts": {
+    "build": "echo 'Static build complete'"
+  }
+}
