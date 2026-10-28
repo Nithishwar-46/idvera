@@ -1,7 +1,7 @@
 @echo off
-title DOOMED ELITES SIH Website
+title NEXRESOLVE 007 SIH Website
 echo ========================================================
-echo   SIH 2026 Project Showcase - DOOMED ELITES
+echo   SIH 2026 Project Showcase - NEXRESOLVE 007
 echo ========================================================
 echo.
 echo Starting local preview server at http://localhost:8000/ ...
