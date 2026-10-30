@@ -24,15 +24,15 @@ You can deploy this repository to **GitHub Pages** with zero build configuration
 - **Nithishwar R B** — Core Developer (`nithishwar.46ya@gmail.com`)
 - **Mike Nijoe N** — Core Developer (`mike.nijoe@gmail.com`)
 - **Pradeep S** — Core Developer (`pradeepsakthivel2008@gmail.com`)
-- **Peminc** — Core Developer (`femin090@gmail.com`)
+- **Pemin C** — Core Developer (`femin090@gmail.com`)
 - **Sudharsanaa G** — Core Developer (`sudharsanaaganesan@gmail.com`)
 
 ---
 
 ## 🏛️ Mentors
-- **Er. Gajendran Parthasarathi** — Senior Academic Mentor
-- **Prof. Muthusamy K** — Faculty Mentor
-- **Prof. (Dr.) P. Sivaprakash** — Technical Consultant (Enterprise Infrastructure)
+- **Er. Gajendran Parthasarathi** — Senior Academic Mentor (Institutional Governance & AICTE Regulatory Compliance)
+- **Prof. Muthusamy K** — Faculty Mentor (Data Systems Architecture & Automated Ingestion Pipelines)
+- **Prof. (Dr.) P. Sivaprakash** — Technical Consultant & Industrial Mentor (Enterprise Security, Privacy & Cloud Systems)
 
 ---
 
