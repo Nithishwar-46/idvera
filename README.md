@@ -1,8 +1,8 @@
 # IDVERA - Smart India Hackathon 2026 Project Showcase
 
-> **Problem Statement ID**: 26071  
-> **Team**: NEXRESOLVE 007  
-> **Theme**: Student Admission, Identity, & Regulatory Compliance Verification  
+> **Problem Statement ID**: SIH26263  
+> **Team**: NexResolve 007  
+> **Theme**: Smart Automation (Category: Software)  
 
 ---
 
@@ -19,8 +19,8 @@ You can deploy this repository to **GitHub Pages** with zero build configuration
 
 ---
 
-## 👥 Team NEXRESOLVE 007
-- **Mahibala V** — Team Leader (`mahibalav.bai25@rathinam.in`)
+## 👥 Team NexResolve 007
+- **Mahibala V** — Team Leader (`mahibalavelusamy@gmail.com`)
 - **Nithishwar R B** — Core Developer (`nithishwar.46ya@gmail.com`)
 - **Mike Nijoe N** — Core Developer (`mike.nijoe@gmail.com`)
 - **Pradeep S** — Core Developer (`pradeepsakthivel2008@gmail.com`)
